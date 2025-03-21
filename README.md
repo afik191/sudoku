@@ -56,8 +56,6 @@ Solved Sudoku:
 3 4 9 | 2 1 6 | 8 5 7
 ```
 
-## Contributing
-Feel free to fork this repository, make improvements, and submit a pull request!
 
 
 
